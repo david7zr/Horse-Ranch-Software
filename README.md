@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 
 ## Contact
 
-Built by David — [GitHub Profile](https://github.com/your-username) | [LinkedIn](#)
+Built by David — [GitHub Profile](https://github.com/david7zr) | [LinkedIn](https://www.linkedin.com/in/david-estrada-b06373316/)
