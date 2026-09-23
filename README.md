@@ -33,7 +33,7 @@ This project is built with:
 - Billing/invoicing for boarding customers
 - Inventory tracking (feed, supplies)
 
-> Some features above are planned/in progress. See [Roadmap](#roadmap--future-improvements) for status.
+##> Some features above are planned/in progress. See [Roadmap](#roadmap--future-improvements) for status.
 
 ---
 
@@ -108,7 +108,7 @@ horse-ranch-management/
 
 ## Documentation
 
-Project planning and process documentation is available in the [`/docs`](./docs) folder, including:
+##Project planning and process documentation is available in the [`/docs`](./docs) folder, including:
 
 - Software Requirements Specification (SRS)
 - MVP scope and feature prioritization
@@ -129,7 +129,7 @@ Project planning and process documentation is available in the [`/docs`](./docs)
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+##This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
